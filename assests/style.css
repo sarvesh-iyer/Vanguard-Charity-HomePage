@@ -1,0 +1,23 @@
+:root {
+    --primary: rgba(0, 0, 0, 0);
+    --secondary: rgba(0, 0, 0, 0.71);
+}
+
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+.logo{
+    width: 140.8px;
+    height: 56.7px;
+}
+
+.header {
+  
+  height: 747.5px;
+  background: linear-gradient(238deg, var(--primary), var(--secondary)), 
+              url(assests/bg.jpg) no-repeat center center / cover;
+  }
+
+  
