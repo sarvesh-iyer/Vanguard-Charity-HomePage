@@ -1,5 +1,5 @@
 # Vanguard-Charity-HomePage
 
-This is my first webpage that I built using HTML and CSS.
+This is my first webpage that I built using HTML and CSS. Its a static non-responsive webpage.
 
-**Website**
+**Website** https://vanguard-homepage.netlify.app/
